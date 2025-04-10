@@ -39,3 +39,9 @@ This project involves SQL-based data analysis on the **Ecommerce Shipping Analys
 
 To practice real-world SQL query writing for analysis purposes and gain experience in handling structured data through a single CSV file using MySQL.
 
+## 🙌 **Author**
+**MOHD. KHAJA PASHA**  
+Data Analyst | SQL Enthusiast | Data Storyteller
+
+🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha/)* 
+
