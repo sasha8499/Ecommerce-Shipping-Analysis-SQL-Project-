@@ -5,8 +5,6 @@ This project involves SQL-based data analysis on the **Ecommerce Shipping Analys
 ## 📁 Dataset
 - <a href =  "https://www.kaggle.com/datasets/safaeahb/ecommerce-shipping-sql-power-bi" >Dataset</a>
 
-- **File Name**: `Ecommerce Shipping Analysis.csv`
-- **Records**: 11,000+
 - **Columns**:
   - ID
   - Warehouse_block
